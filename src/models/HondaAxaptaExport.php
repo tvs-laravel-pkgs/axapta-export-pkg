@@ -21,13 +21,13 @@ class HondaAxaptaExport extends Model {
 		'TransDate',
 		'Account',
 		'AccountType',
-		'Department'
+		'Department',
 		'LedgerDimension',
 		'DefaultDimension',
 		'Txt',
 		'AmountCurDebit',
 		'AmountCurCredit',
-		'Sub_GL'
+		'Sub_GL',
 		'OffsetAccountType',
 		'OffsetLedgerDimension',
 		'OffsetDefaultDimension',
