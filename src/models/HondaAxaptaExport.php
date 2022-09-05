@@ -5,7 +5,7 @@ namespace Abs\AxaptaExportPkg;
 use Illuminate\Database\Eloquent\Model;
 
 class HondaAxaptaExport extends Model {
-	protected $table = 'honda_axapta_exports';
+	protected $table = 'honda_axapta_exports'; 
 	protected $fillable = [
 		 
 		'entity_type_id',
